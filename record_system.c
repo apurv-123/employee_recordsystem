@@ -10,8 +10,8 @@ COORD coord = {0,0}; /// top-left corner of window
 
 /**
     function : gotoxy
-    @param input: x and y coordinates
-    @param output: moves the cursor in specified position of console
+    @Apurv input: x and y coordinates
+    @Apurv output: moves the cursor in specified position of console
 */
 void gotoxy(int x,int y)
 {
